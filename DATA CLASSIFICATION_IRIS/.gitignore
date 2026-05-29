@@ -1,0 +1,23 @@
+# ── Python ──────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── Jupyter Notebook ────────────────────
+.ipynb_checkpoints/
+
+# ── Virtual Environment ─────────────────
+venv/
+.venv/
+env/
+
+# ── VSCode ──────────────────────────────
+.vscode/
+
+# ── OS Files ────────────────────────────
+.DS_Store        # Mac
+Thumbs.db        # Windows
+
+# ── Environment Variables ───────────────
+.env

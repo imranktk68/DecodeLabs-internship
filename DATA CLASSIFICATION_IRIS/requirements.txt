@@ -1,0 +1,32 @@
+# ============================================================
+#  DecodeLabs | AI Project 2 — Data Classification Using AI
+#  Requirements File — Merged (.py + .ipynb)
+#  Install: pip install -r requirements.txt
+# ============================================================
+
+# ─── Core Data Libraries ─────────────────────────────────────
+# Source: .ipynb imports
+numpy==2.4.6
+pandas==3.0.3
+
+# ─── Visualization Libraries ─────────────────────────────────
+# Source: .ipynb imports
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# ─── Machine Learning ────────────────────────────────────────
+# Source: both .py and .ipynb
+scikit-learn==1.8.0
+
+# ─── ML Dependency ───────────────────────────────────────────
+# Source: pipreqs (.py file) — used internally by scikit-learn
+joblib==1.5.3
+
+# ─── Jupyter Notebook Environment (.ipynb support) ───────────
+# Source: .ipynb (added manually — pipreqs never detects these)
+jupyter==1.1.1
+notebook==7.5.6
+jupyterlab==4.5.7
+ipykernel==7.2.0
+ipywidgets==8.1.8
+nbformat==5.10.4
