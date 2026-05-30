@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║       DecodeLabs Internship — Batch 2026                     ║
-║       Project 1: Rule-Based AI Chatbot 🤖                    ║
+║       Project 1: Rule-Based AI Chatbot                    ║
 ║       Engineer: AI Intern                                    ║
 ╚══════════════════════════════════════════════════════════════╝
 
