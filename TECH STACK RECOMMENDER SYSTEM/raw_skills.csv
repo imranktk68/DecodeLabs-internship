@@ -1,0 +1,23 @@
+job_role,skills
+Data Scientist,Python SQL Machine Learning Statistics Data Analysis TensorFlow Pandas NumPy Data Visualization Scikit-learn Deep Learning Probability
+Machine Learning Engineer,Python TensorFlow PyTorch Scikit-learn Deep Learning Algorithms Data Structures Neural Networks Computer Vision NLP Model Deployment
+AI Engineer,Python TensorFlow PyTorch NLP Computer Vision Deep Learning Neural Networks Generative AI LLMs Prompt Engineering Model Optimization
+Backend Developer,Python Java SQL REST APIs Django Flask Databases PostgreSQL Node.js Authentication Microservices Git
+Frontend Developer,JavaScript React HTML CSS TypeScript Redux UI Design Responsive Design APIs Git Vue.js Web Performance
+Full Stack Developer,JavaScript Python React Django HTML CSS SQL REST APIs Git Node.js PostgreSQL Authentication
+DevOps Engineer,AWS Docker Kubernetes CI/CD Linux Git Automation Bash Scripting Cloud Infrastructure Monitoring Terraform
+Cloud Architect,AWS Azure Google Cloud Cloud Infrastructure Kubernetes Terraform Networking Security Distributed Systems DevOps
+Cybersecurity Analyst,Network Security Ethical Hacking Python Linux Penetration Testing Cryptography Firewalls Vulnerability Assessment SIEM Threat Analysis
+Data Analyst,SQL Python Excel Data Visualization Power BI Tableau Statistics Reporting Business Intelligence Pandas
+Data Engineer,Python SQL Apache Spark Hadoop ETL Pipelines Data Warehousing Kafka Airflow Cloud Databases BigData
+Mobile Developer,Flutter Dart Android iOS Swift Kotlin React Native APIs UI Design Git App Deployment
+Database Administrator,SQL PostgreSQL MySQL Oracle Database Design Query Optimization Backup Recovery Performance Tuning Data Modeling
+Network Engineer,Networking TCP/IP Cisco Linux Firewalls VPN Routing Switching Security Monitoring Infrastructure
+Systems Administrator,Linux Windows Server Networking Bash Scripting Automation Virtualization Monitoring Security Backup
+Product Manager,Agile Scrum Product Strategy User Research Roadmap Planning Communication Data Analysis Stakeholder Management JIRA
+UI/UX Designer,Figma User Research Wireframing Prototyping UI Design UX Principles Adobe XD Typography Accessibility Testing
+Blockchain Developer,Solidity Smart Contracts Ethereum Web3 JavaScript Python Cryptography Distributed Systems DeFi NFT
+Embedded Systems Engineer,C C++ Microcontrollers RTOS Hardware Programming Electronics Linux Debugging Assembly
+Site Reliability Engineer,Linux Python Go Kubernetes Monitoring Distributed Systems Automation CI/CD Incident Management SLAs
+QA Engineer,Testing Automation Selenium Python Java Test Planning Bug Tracking CI/CD Agile Performance Testing
+Research Scientist,Python Mathematics Statistics Deep Learning Research Paper Writing NLP Computer Vision Algorithms PyTorch
